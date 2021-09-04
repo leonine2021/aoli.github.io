@@ -7,4 +7,4 @@
 <p>Coming soon</p>
 <h3>Project3</h3>
 <p>Coming soon</p>
-<p>....../p>
+<p>......</p>
