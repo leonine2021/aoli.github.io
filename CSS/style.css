@@ -5,7 +5,7 @@
 @import url(./partials/_variables.css); /* start navigation */
 
 /* global styling */
-@import url("./partials/_global.css");
+@import url(./partials/_global.css);
 
 a.navbar-brand {
   padding: 0 2rem 0 5rem;
@@ -15,12 +15,12 @@ nav.navbar {
   padding: 1rem 20rem;
 }
 
-/* a.nav-link {
+a.nav-link {
   text-transform: uppercase;
   padding: 1.7rem;
   font-weight: 500;
   color: black;
-} */
+}
 
 .header_area .main-menu .nav-item .nav-link {
   font: normal 500 15px/2px var(--roboto);
